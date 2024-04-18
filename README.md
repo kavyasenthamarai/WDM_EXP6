@@ -1,7 +1,7 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
 
-<H3> NAME : KADIN SAMSON L </H3>
-<H3> REGISTER NUMBER : 212221230044 </H3>
+<H3> NAME : KAVYA K </H3>
+<H3> REGISTER NUMBER : 212222230065 </H3>
 <H3> EXPERIMENT NO : 06 </H3>
 <H3> DATE  : 29.03.2024 </H3>
 
